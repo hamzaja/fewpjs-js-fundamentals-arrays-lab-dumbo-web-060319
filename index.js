@@ -1,2 +1,4 @@
 // Write your solution here!
-arr = ["Milo", "Otis", "Garfield"]
+pets = ["Milo", "Otis", "Garfield"]
+
+pets.appends("odie")
