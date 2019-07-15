@@ -1,4 +1,4 @@
 // Write your solution here!
-pets = ["Milo", "Otis", "Garfield"]
+const append = 
 
 pets.push("odie");
